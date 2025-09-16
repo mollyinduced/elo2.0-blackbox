@@ -78,7 +78,7 @@ Before starting, make sure you have the following:
 
 ## Misc: Bootloader Unlock (MSM8953 Only)
 ---
-
+# ⚠️ THERE ARE OTHER SUPPORTED VERSIONS BUT THEY ARENT LISTED, SO IF NOT SAME CHIPSET DONT DO THIS ⚠️ 
 ### Tutorial:
 1. **Reboot to EDL**  
    ```bash
