@@ -21,8 +21,8 @@ This guide explains how to recover a **hardbricked Elo I-Series 2.0** running **
 
 Before starting, make sure you have the following:
 
-- A Windows PC with **Qualcomm drivers** installed - [Download](https://github.com/mollyinduced/elo2.0-blackbox/releases/download/1.0/qualcomm.drivers.zip)  
-- **QFIL (Qualcomm Flash Image Loader)** software - [Download](https://github.com/mollyinduced/elo2.0-blackbox/releases/download/1.0/qpst_2.7.496.zip)
+- A Windows PC with **Qualcomm drivers** installed - [Download](https://github.com/mollyinduced/elo2.0-blackbox/releases/download/tools/qpst_2.7.496.zip))  
+- **QFIL (Qualcomm Flash Image Loader)** software - [Download](https://github.com/mollyinduced/elo2.0-blackbox/releases/download/tools/qpst_2.7.496.zip)
 - USB cable compatible with Elo I-Series 2.0
 - The following files:
   - `flashboot-rom.zip` (Recovery ROM for Xiaomi Note 4, Android 8.1)  
